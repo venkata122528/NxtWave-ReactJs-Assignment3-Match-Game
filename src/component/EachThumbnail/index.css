@@ -1,0 +1,18 @@
+.eachThumbnailListItem {
+  height: 90px;
+  width: 20%;
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+
+.thumbnailButton {
+  height: 100%;
+  width: 100%;
+  border-style: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.thumbnailImage {
+  height: 100%;
+}

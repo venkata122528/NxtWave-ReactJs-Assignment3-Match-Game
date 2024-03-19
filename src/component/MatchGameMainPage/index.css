@@ -1,0 +1,127 @@
+.mainContainer {
+  height: 100vh;
+}
+
+.navBar {
+  height: 10%;
+  background-color: #2c0e3a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.websiteLogo {
+  height: 80%;
+}
+
+.scoreTimerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #ffffff;
+}
+
+.score {
+  margin-right: 10px;
+}
+
+.scoreNumber {
+}
+
+.timerLogoContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.timerImage {
+  height: 100%;
+  align-self: center;
+  margin-right: 10px;
+}
+
+.timer {
+}
+
+.subContainer {
+  height: 90%;
+  overflow: auto;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.cardContainer {
+  height: 100%;
+  width: 65%;
+}
+
+.gameOverContainer {
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.gameRunningContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.trophyImage {
+  height: 40%;
+}
+
+.playAgainButton {
+  height: 10%;
+  background-color: #cf60c8;
+  padding: 10px;
+  border-radius: 10px;
+  border-style: none;
+  cursor: pointer;
+}
+
+.yourScoreTitle {
+}
+
+.score {
+}
+
+.resetImage {
+  height: 80%;
+}
+
+.mainImage {
+  height: 55%;
+  width: 100%;
+}
+
+.buttonsMainContainer {
+}
+
+.buttonsListContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.thumbnailsContainer {
+  width: 100%;
+}
+
+.thumbnailsListContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  overflow: auto;
+}
